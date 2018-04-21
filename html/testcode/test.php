@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="index.html" method="post" enctype"multipart/form-data">
+	<div>
+		<label for="file">Choose a file</label>
+		<input type="file" id="file" name="myFile" accept="image/*">
+	</div>
+	<div>
+		<input type="submit" value="Encrypt"/>
+	</div>
+</form>
