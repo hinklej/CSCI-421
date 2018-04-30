@@ -1,7 +1,6 @@
 #!/usr/bin/python
 """
-dnsSquirrel.py: Simple DNS sniffer based on dnssnarf.py which outputs data in bind log 
-                format for further analysis with more advanced tools
+dnsSniff.py:    Simple DNS sniffer that outputs data to a text file (output.txt)
 
 """
 Credit to /u/corifeo for main source code
